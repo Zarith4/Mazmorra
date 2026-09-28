@@ -1,0 +1,16 @@
+REPORTE DE PARTIDA
+Jugador: Zarah
+Resultado: GANO!!
+Oro: 0
+PV: 100
+PH: 20
+Puntaje: 400
+
+REPORTE DE PARTIDA
+Jugador: Sofia
+Resultado: GANO!!
+Oro: 10
+PV: 90
+PH: 20
+Puntaje: 400
+
